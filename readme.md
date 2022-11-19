@@ -1,11 +1,8 @@
 IBM-Project-18609-1659687706
 
 Global Sales Data Analytics
-
 Project Title : Global Sales Data Analytics
-
 Project Domain : Data Analytics
-
 Team ID : PNT2022TMID27950
 
 TEAM MEMBERS:
